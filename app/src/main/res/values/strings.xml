@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UniPackage</string>
+    <string name="app_subtitle">Uninstaller for Android Packages</string>
+    <string name="unused_apps_title">Unused Apps</string>
+    <string name="grant_permission_title">Grant Permission</string>
+    <string name="grant_permission_desc">Usage stats permission is required to find unused apps.</string>
+    <string name="grant_permission_btn">Grant Permission</string>
+    <string name="scanning_text">Scanning for unused apps&#8230;</string>
+    <string name="no_unused_apps">No unused apps found (try using the device more).</string>
+    <string name="footer_credits">By 85cs/Itelcan3 (aka. MasterSharp3210)</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="cancel">Cancel</string>
+    <string name="uninstall_dialog_title">Uninstall App</string>
+    <string name="uninstall_dialog_msg">Are you sure you want to uninstall %1$s?</string>
+    <string name="size_prefix">Size: %1$s</string>
+    <string name="days_option_format">Last %1$d days</string>
+</resources>
